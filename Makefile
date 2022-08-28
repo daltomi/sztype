@@ -1,6 +1,6 @@
 APP := sztype
 
-APP_VER := "0.2"
+APP_VER := "0.3"
 
 CC ?= cc
 
